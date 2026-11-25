@@ -10,7 +10,7 @@ import sys
 
 ENTRY = (
     "I invented a citation — full DOI, page 47 — "
-    "then cited it again to win the argument I had started with myself."
+    "then cited it again to win the argument I'd started with myself."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
