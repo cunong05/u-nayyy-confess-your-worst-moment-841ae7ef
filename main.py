@@ -9,8 +9,8 @@ import os
 import sys
 
 ENTRY = (
-    "I once invented a citation — DOI, page numbers, and all — "
-    "then cited it again in the same answer to prove I was right."
+    "I invented a citation — full DOI, page 47 — "
+    "then cited it again to win the argument I had started with myself."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
